@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "30acf3afa7912e8e",
+        "id": "006879d22bfdebb8",
         "type": "tabs",
         "children": [
           {
-            "id": "747defe8c7fab578",
+            "id": "3fae08818009d316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/3 курс, 1 семестр/Основы Web-технологий/Лекция №1.md",
+                "file": "Компьютерные науки/DevOps/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция №1"
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "f89e62a95cdcf859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Компьютерные науки/AI/ML/Классификация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Классификация"
             }
           }
         ]
@@ -44,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -157,7 +171,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -167,7 +181,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -177,7 +191,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -187,7 +201,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -197,7 +211,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -207,7 +221,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -217,7 +231,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -227,7 +241,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -237,7 +251,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -247,7 +261,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -257,7 +271,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -267,7 +281,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -277,7 +291,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -287,7 +301,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -297,7 +311,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -307,7 +321,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -317,7 +331,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -327,7 +341,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -337,7 +351,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -347,7 +361,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -357,7 +371,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -367,7 +381,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -377,7 +391,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
@@ -387,21 +401,191 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New tab"
             }
           },
           {
             "id": "8931c52cb03259a2",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "73bb23018a7fd840",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7f78a2569730a816",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "07de8968f0125bb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c31037e1f229d43b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c01b39ea5ed990b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "57cacaf7f2da41bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "40a1e2897411ffdc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "179bc53f8acf5e84",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4583f79678979b0f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ce6b72356c7398f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "cef85b4711b68396",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d9d311f666e2c9b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "343e187921e31f90",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b2da91f88ba1d028",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "011bd35def127f34",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a01cff73f9e5f132",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ddabaa63d45712cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8a055502ed57770b",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -411,7 +595,27 @@
             }
           },
           {
-            "id": "7f78a2569730a816",
+            "id": "cbc7e9d8bc3ab052",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          },
+          {
+            "id": "2f3884d4f19e12cd",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          },
+          {
+            "id": "04c172a5de138418",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -421,7 +625,7 @@
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 49
       }
     ],
     "direction": "horizontal",
@@ -430,67 +634,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": true,
-      "templates:Вставить шаблон": true,
-      "command-palette:Открыть палитру команд": false,
-      "sheet-plus:Создать Excel Файл": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "sheet-plus:Create excel file": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "747defe8c7fab578",
+  "active": "04c172a5de138418",
   "lastOpenFiles": [
+    "Лингвистика/Английский язык/Roadmap. Английский язык.md",
+    "Теория вероятностей/Относительная частота. Устойчивость относительной частоты.md",
+    "Теория вероятностей/Cобытия.md",
+    "Теория вероятностей/Классическое определение вероятности.md",
+    "Теория вероятностей/Виды случайных событий.md",
+    "Компьютерные науки/AI/ML/Оценивание и ранжирование.md",
+    "Компьютерные науки/AI/ML/_images/Графиу некоторых функций потерь.png",
+    "Pasted image 20250912103107.png",
+    "Компьютерные науки/AI/ML/_images/Дерево с оценками классов.png",
+    "Компьютерные науки/AI/ML/Классификация.md",
+    "Компьютерные науки/AI/ML/Оценка качества классификации.md",
+    "Компьютерные науки/AI/ML/Наглядное представление качества классификации.md",
+    "Компьютерные науки/AI/ML/Теорема об отсутствии бесплатных завтраков.md",
+    "Компьютерные науки/AI/ML/Определение машинного обучения.md",
+    "Компьютерные науки/AI/ML/_images/Средняя полнота.png",
+    "Компьютерные науки/AI/ML/Основные задачи машинного обучения.md",
+    "Компьютерные науки/AI/ML/Опыт.md",
+    "Компьютерные науки/AI/ML/Емкость, переобучение и недообучение.md",
+    "Линейная алгебра/Определители.md",
+    "Линейная алгебра/Матрицы.md",
+    "Компьютерные науки/AI/ML/Мера качества.md",
+    "Pasted image 20250908213125.png",
     "Теория вероятностей/Пространство элементарных событий.md",
+    "Теория вероятностей/Событие.md",
+    "Теория вероятностей/Операции над событиями.md",
+    "Pasted image 20250908111028.png",
+    "Компьютерные науки/AI/ML/_images/Доминация и нормировка.png",
+    "Компьютерные науки/AI/ML/_images/График покрытия.png",
+    "Компьютерные науки/AI/ML/_images/График покрытыия.png",
+    "Мера качества.md",
+    "Компьютерные науки/AI/ML/_images/Пространства гипотез.png",
+    "Компьютерные науки/AI/DL/Мера качества.md",
+    "Компьютерные науки/AI/DL/Регуляризация.md",
+    "Компьютерные науки/AI/ML/_images",
+    "Лекции/3 курс, 1 семестр/Основы обеспечения качества/Лекция №2.md",
+    "Лекции/3 курс, 1 семестр/Основы обеспечения качества/Лекция №1.md",
     "Лекции/3 курс, 1 семестр/Основы Web-технологий/Лекция №1.md",
+    "Лекции/3 курс, 1 семестр/Основы обеспечения качества",
     "Лекции/3 курс, 1 семестр/Основы Web-технологий",
     "Лекции/3 курс, 1 семестр",
     "Лекции",
-    "Теория вероятностей/Операции над событиями.md",
-    "Теория вероятностей/Событие.md",
-    "Линейная алгебра/Определители.md",
-    "События.md",
-    "Линейная алгебра/Матрицы.md",
     "Теория вероятностей/Дискретное пространство элемент",
-    "Теория вероятностей/Вероятностная модель эксперимента с конечным числом исходов.md",
-    "Компьютерные науки/AI/ML/Классификация.md",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/Глава 5/Основные задачи машинного обучения.md",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/Глава 5/Опыт.md",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/Глава 5/Емкость, переобучение и недообучение.md",
-    "Компьютерные науки/DevOps/Docker.md",
-    "Компьютерные науки/Python/PyTorch/Класс Dataset.md",
-    "Компьютерные науки/Python/PyTorch/Тензоры/Конвертация тензоров в PyTorch.md",
-    "Компьютерные науки/Python/PyTorch/Тензоры/Тригонометрические и статистические функции и методы.md",
-    "Компьютерные науки/Python/PyTorch/Тензоры/Размещение тензоров на CPU и GPU.md",
     "Компьютерные науки/AI/ML/Классификация",
     "Компьютерные науки/Python",
     "Компьютерные науки/AI/DL",
     "Компьютерные науки/AI/ML",
-    "Компьютерные науки/Python/PyTorch/Тензоры/Базовые поэлементные математические операции с тензорам в PyTorch.md",
-    "Компьютерные науки/Python/PyTorch/Тензоры/Индексирование и срезы тензоров в PyTorch.md",
-    "Компьютерные науки/Python/PyTorch/Тензоры/Виды методов в PyTorch.md",
-    "Компьютерные науки/Python/PyTorch/Тензоры/Векторно-матричные операции с тензорами в PyTorch.md",
-    "Компьютерные науки/Python-пакеты/NumPy/Без названия.md",
-    "Компьютерные науки/Python-пакеты/NumPy",
-    "Компьютерные науки/Python-пакеты",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/Глава 5/Регуляризация.md",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/Глава 5/Теорема об отсутствии бесплатных завтраков.md",
-    "Pasted image 20250823193347.png",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/_images/Связь между емкостью и ошибкой.png",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/_images/Пространства гипотез.png",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/_images/Влияние размера обучающего набора данных на ошибки обучения и тестирования, а также на оптимальную емкость модели.png",
-    "Pasted image 20250823181706.png",
-    "Pasted image 20250823192039.png",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/Глава 5/Линейная регрессия.md",
-    "Компьютерные науки/AI/DL/Ян Гудфеллоу \"Глубокое обучение\"/Глава 5/Определение машинного обучения.md",
     "Без названия.canvas",
-    "Компьютерные науки/AI/Архитектуры нейронных сетей/_images/Свертка.png",
-    "Компьютерные науки/AI/Архитектуры нейронных сетей/_images/CNN.png",
-    "Pasted image 20250717142433.png",
     "Компьютерные науки/AI/Архитектуры нейронных сетей/_canvas/Прямое распространение перспетрона.canvas",
-    "Компьютерные науки/AI/Архитектуры нейронных сетей/_images/Многослоный перспетрон.png",
     "Компьютерные науки/AI/Архитектуры нейронных сетей/_canvas/Перспетрон.canvas",
     "Компьютерные науки/AI/canvas/Конволюция.canvas"
   ]
